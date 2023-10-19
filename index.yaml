@@ -3,7 +3,7 @@ entries:
   my-app:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-10-19T15:31:59.703287262Z"
+    created: "2023-10-19T15:41:31.394394435Z"
     description: A Helm chart for Kubernetes
     digest: 63c9aa4e80f202825990927431066bb94e4e3f911c76f2326d40fe29caa7dc0a
     name: my-app
@@ -14,7 +14,17 @@ entries:
   py-webapp:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-10-19T15:31:59.704159994Z"
+    created: "2023-10-19T15:41:31.395882502Z"
+    description: A Helm chart for Kubernetes
+    digest: b58e95ccb65c4183b09e37deb03ab7f2ba9bd79f937d3d9ee53d175a1c0461c5
+    name: py-webapp
+    type: application
+    urls:
+    - https://amitvashist7.github.io/helm-example/py-webapp-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-10-19T15:41:31.395300858Z"
     description: A Helm chart for Kubernetes
     digest: b432b964bca2e229282b3476ecdde930c488193bf6a1800f64d549bc2bd73221
     name: py-webapp
@@ -22,4 +32,4 @@ entries:
     urls:
     - https://amitvashist7.github.io/helm-example/py-webapp-0.1.0.tgz
     version: 0.1.0
-generated: "2023-10-19T15:31:59.702118892Z"
+generated: "2023-10-19T15:41:31.393246403Z"
