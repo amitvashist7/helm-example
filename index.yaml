@@ -3,7 +3,7 @@ entries:
   my-app:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-10-25T11:11:51.190216974Z"
+    created: "2023-10-25T11:43:04.536587073Z"
     description: A Helm chart for Kubernetes
     digest: 63c9aa4e80f202825990927431066bb94e4e3f911c76f2326d40fe29caa7dc0a
     name: my-app
@@ -14,7 +14,7 @@ entries:
   mywebapptest:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-10-25T11:11:51.191272266Z"
+    created: "2023-10-25T11:43:04.537198572Z"
     description: A Helm chart for Kubernetes
     digest: 2e080f8fc809e1f493ec5acec152b16f05b929944a21ea338f2347733280f7fc
     name: mywebapptest
@@ -25,7 +25,7 @@ entries:
   py-webapp:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-10-25T11:11:51.192404015Z"
+    created: "2023-10-25T11:43:04.538415264Z"
     description: A Helm chart for Kubernetes
     digest: b58e95ccb65c4183b09e37deb03ab7f2ba9bd79f937d3d9ee53d175a1c0461c5
     name: py-webapp
@@ -35,7 +35,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-10-25T11:11:51.191855269Z"
+    created: "2023-10-25T11:43:04.537810573Z"
     description: A Helm chart for Kubernetes
     digest: b432b964bca2e229282b3476ecdde930c488193bf6a1800f64d549bc2bd73221
     name: py-webapp
@@ -46,7 +46,17 @@ entries:
   sunbird-rc:
   - apiVersion: v2
     appVersion: 0.0.13
-    created: "2023-10-25T11:11:51.196772845Z"
+    created: "2023-10-25T11:43:04.550035338Z"
+    description: A Helm chart for Sunbird RC
+    digest: 5c6525e72924d3f03da23fe861fa205ee54981207343307ad543ed3f0dd1bd95
+    name: sunbird-rc
+    type: application
+    urls:
+    - https://amitvashist7.github.io/helm-example/sunbird-rc-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v2
+    appVersion: 0.0.13
+    created: "2023-10-25T11:43:04.544691996Z"
     description: A Helm chart for Sunbird RC
     digest: 0057d2ad911a0c47fb3debaad4ce406cab6ec2514859d8fa0834366f0cf8b281
     name: sunbird-rc
@@ -54,4 +64,4 @@ entries:
     urls:
     - https://amitvashist7.github.io/helm-example/sunbird-rc-0.0.1.tgz
     version: 0.0.1
-generated: "2023-10-25T11:11:51.18943156Z"
+generated: "2023-10-25T11:43:04.535721562Z"
