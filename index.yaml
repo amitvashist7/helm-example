@@ -3,7 +3,7 @@ entries:
   my-app:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-10-25T12:32:56.746220672Z"
+    created: "2023-11-16T04:21:11.815181302Z"
     description: A Helm chart for Kubernetes
     digest: 63c9aa4e80f202825990927431066bb94e4e3f911c76f2326d40fe29caa7dc0a
     name: my-app
@@ -14,7 +14,7 @@ entries:
   mywebapptest:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-10-25T12:32:56.746829672Z"
+    created: "2023-11-16T04:21:11.816671996Z"
     description: A Helm chart for Kubernetes
     digest: 2e080f8fc809e1f493ec5acec152b16f05b929944a21ea338f2347733280f7fc
     name: mywebapptest
@@ -25,7 +25,7 @@ entries:
   py-webapp:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-10-25T12:32:56.74806071Z"
+    created: "2023-11-16T04:21:11.81883251Z"
     description: A Helm chart for Kubernetes
     digest: b58e95ccb65c4183b09e37deb03ab7f2ba9bd79f937d3d9ee53d175a1c0461c5
     name: py-webapp
@@ -35,7 +35,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-10-25T12:32:56.74744824Z"
+    created: "2023-11-16T04:21:11.817787142Z"
     description: A Helm chart for Kubernetes
     digest: b432b964bca2e229282b3476ecdde930c488193bf6a1800f64d549bc2bd73221
     name: py-webapp
@@ -46,7 +46,17 @@ entries:
   sunbird-rc:
   - apiVersion: v2
     appVersion: 0.0.13
-    created: "2023-10-25T12:32:56.764949381Z"
+    created: "2023-11-16T04:21:11.845692568Z"
+    description: A Helm chart for Sunbird RC
+    digest: 0882780bede003529c920949878a1e44939d9e930d73bec6042b21a23a3f0f91
+    name: sunbird-rc
+    type: application
+    urls:
+    - https://amitvashist7.github.io/helm-example/sunbird-rc-0.4.0.tgz
+    version: 0.4.0
+  - apiVersion: v2
+    appVersion: 0.0.13
+    created: "2023-11-16T04:21:11.841446851Z"
     description: A Helm chart for Sunbird RC
     digest: 4c203b7f9911889fcee904258b513074e866fd9d233d9a09a4ada79c380c61f1
     name: sunbird-rc
@@ -56,7 +66,7 @@ entries:
     version: 0.3.0
   - apiVersion: v2
     appVersion: 0.0.13
-    created: "2023-10-25T12:32:56.759009627Z"
+    created: "2023-11-16T04:21:11.835152233Z"
     description: A Helm chart for Sunbird RC
     digest: 5c6525e72924d3f03da23fe861fa205ee54981207343307ad543ed3f0dd1bd95
     name: sunbird-rc
@@ -66,7 +76,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 0.0.13
-    created: "2023-10-25T12:32:56.754555747Z"
+    created: "2023-11-16T04:21:11.824468295Z"
     description: A Helm chart for Sunbird RC
     digest: 0057d2ad911a0c47fb3debaad4ce406cab6ec2514859d8fa0834366f0cf8b281
     name: sunbird-rc
@@ -74,4 +84,4 @@ entries:
     urls:
     - https://amitvashist7.github.io/helm-example/sunbird-rc-0.0.1.tgz
     version: 0.0.1
-generated: "2023-10-25T12:32:56.745370795Z"
+generated: "2023-11-16T04:21:11.813484834Z"
